@@ -19,7 +19,7 @@ $(function() {
 			shareUrl = "https://www.facebook.com/sharer/sharer.php?u="+curUrl;
 		}
 
-		windowPopup( shareUrl, 576, 300 );
+		windowPopup( shareUrl, 576, 500 );
 
 		return false;
 	});
